@@ -33,5 +33,6 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>Food-system-xyz>/FinalName>
   </build>
 </project>
